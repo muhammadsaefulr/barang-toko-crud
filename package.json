@@ -1,11 +1,12 @@
 {
-  "name": "belajar-produk-toko-crud",
+  "name": "barang-toko-crud",
   "version": "0.0.1",
   "description": "Belajar Crud Api Dan memahami cara kerja api dengan expressjs dan sequelize",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "test": "nodemon index.js"
+    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "#learning"
