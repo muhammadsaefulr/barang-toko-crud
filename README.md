@@ -1,3 +1,3 @@
-# produk-toko-crud
+# barang-toko-crud
 
 Belajar Membuat Crud Dengan Sequileze Dan ExpressJS
